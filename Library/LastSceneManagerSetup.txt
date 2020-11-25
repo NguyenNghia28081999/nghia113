@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/vuong/Downloads/snake-unity-master/Assets/Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1
